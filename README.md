@@ -5,7 +5,7 @@ A full-stack web application for managing sales leads, tracking follow-ups, and 
 ## Live Demo
 
 - **Frontend:** [https://lead-management-frontend-o2ta.onrender.com](https://lead-management-frontend-o2ta.onrender.com)
-- **Backend API:** [https://lead-management-system-uqj7.onrender.com](https://lead-management-system-uqj7.onrender.com)
+- **Backend API(Health Check):** [ https://lead-management-system-uqj7.onrender.com/api/health]( https://lead-management-system-uqj7.onrender.com/api/health)
 - **GitHub Repository:** [https://github.com/chhavidwivedi/lead-management-system](https://github.com/chhavidwivedi/lead-management-system)
 
 ## Features
