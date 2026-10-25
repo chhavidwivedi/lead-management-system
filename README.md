@@ -95,4 +95,4 @@ Open the local URL displayed by Vite.
 
 ## Author
 
-Add your name and professional links here.
+Chhavi.
